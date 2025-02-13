@@ -1,0 +1,24 @@
+{
+  "name": "testproject1",
+  "version": "1.0.0",
+  "description": "Project to test out coding features",
+  "keywords": [],
+  "homepage": "https://github.com/nchua3012/TestProject1#readme",
+  "bugs": {
+    "url": "https://github.com/nchua3012/TestProject1/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nchua3012/TestProject1.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}

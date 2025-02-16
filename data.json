@@ -1,10 +1,20 @@
 [
   {
     "name": "nick",
-    "email": "n.chua3012@gmail.com"
+    "entryString": "I'm feeling great today! I live in New York.",
+    "location": "New York.",
+    "feeling": "Happy"
   },
   {
     "name": "Jess",
-    "email": "martin.jessrose@gmail.com"
+    "entryString": "I'm feeling anxious and having a mental crisis. I'm based in London.",
+    "location": "London.",
+    "feeling": "Sad"
+  },
+  {
+    "name": "chicken",
+    "entryString": "i feel sick and am from london",
+    "location": "london",
+    "feeling": "Neutral"
   }
 ]
